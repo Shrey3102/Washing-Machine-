@@ -14,7 +14,7 @@ Welcome to the Washing Machine Project! This project was developed using Embedde
 - [Software Requirements](#software-requirements)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
-% - [Project Structure](#project-structure)
+
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -67,13 +67,6 @@ To get started with this project, follow the instructions below to set up the de
 
 3. **Start Washing:**
    - Initiate the washing process and monitor the operations.
-/*
-## Project Structure
-- **src/**: Contains the source code files.
-- **inc/**: Contains the header files.
-- **docs/**: Documentation related to the project.
-- **README.md**: Project overview and setup instructions.*/
-
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
